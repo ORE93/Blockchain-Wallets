@@ -35,10 +35,10 @@ First we'll go into Git Bash and run the command streamlit run fintech_finder.py
 
 [![Screenshot-19.png](https://i.postimg.cc/bvS42K8w/Screenshot-19.png)](https://postimg.cc/8FDZ2Xj2)
 
-And as you can see here it opens up and works! We can hire a fintech professional from the list :
+And as you can see here it opens up and works! I was able to hire a fintech professional from the list as you can see:
 
 [![Screenshot-18.png](https://i.postimg.cc/GpvqRrdG/Screenshot-18.png)](https://postimg.cc/hJP98kJt)
 
-#Technologies
+## Technologies
 I completed my code using Microsoft VSC and the imported libraries of Web3 and streamlit. All the imports can be found in the py files. 
 
